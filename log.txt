@@ -1,0 +1,62 @@
+boy_2_girl_13 at 2017/46/26 05:46:32
+boy_4_girl_1 at 2017/46/26 05:46:32
+boy_6_girl_3 at 2017/46/26 05:46:32
+boy_10_girl_2 at 2017/46/26 05:46:32
+boy_11_girl_4 at 2017/46/26 05:46:32
+boy_13_girl_5 at 2017/46/26 05:46:32
+boy_14_girl_11 at 2017/46/26 05:46:32
+boy_16_girl_8 at 2017/46/26 05:46:32
+boy_19_girl_10 at 2017/46/26 05:46:32
+boy_22_girl_12 at 2017/46/26 05:46:32
+boy_49_girl_7 at 2017/46/26 05:46:32
+boy_73_girl_6 at 2017/46/26 05:46:32
+boy_2_girl_13
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 gift_id_197 
+boy_4_girl_1
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 gift_id_197 gift_id_130 
+boy_6_girl_3
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 gift_id_197 gift_id_130 gift_id_100 gift_id_603 gift_id_163 gift_id_270 gift_id_270 
+boy_10_girl_2
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 
+boy_11_girl_4
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 
+boy_13_girl_5
+gift_id_131 gift_id_351 gift_id_348 
+boy_14_girl_11
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 gift_id_4 
+boy_16_girl_8
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 
+boy_19_girl_10
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 
+boy_22_girl_12
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 
+boy_49_girl_7
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 gift_id_197 gift_id_130 gift_id_100 gift_id_603 gift_id_163 gift_id_270 
+boy_73_girl_6
+gift_id_131 gift_id_351 gift_id_348 gift_id_601 gift_id_576 gift_id_4 gift_id_565 gift_id_149 gift_id_503 gift_id_138 gift_id_79 gift_id_449 gift_id_546 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 gift_id_197 
+order of couple with hapiness
+boy_16_girl_8 6
+boy_4_girl_1 14
+boy_49_girl_7 56
+boy_6_girl_3 58
+boy_14_girl_11 115
+boy_22_girl_12 128
+boy_19_girl_10 167
+boy_10_girl_2 483
+boy_13_girl_5 734
+boy_2_girl_13 3232
+boy_73_girl_6 12296
+boy_11_girl_4 8886582
+order of couple with compatiblity
+boy_49_girl_7 133
+boy_6_girl_3 139
+boy_4_girl_1 164
+boy_14_girl_11 200
+boy_22_girl_12 223
+boy_16_girl_8 267
+boy_73_girl_6 267
+boy_19_girl_10 271
+boy_2_girl_13 381
+boy_10_girl_2 409
+boy_13_girl_5 426
+boy_11_girl_4 558
